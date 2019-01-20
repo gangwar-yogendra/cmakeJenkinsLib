@@ -1,0 +1,2 @@
+/usr/bin/ar qc libZeroMatrixLib.a  CMakeFiles/ZeroMatrixLib.dir/src/ZeroMatrix.cpp.o
+/usr/bin/ranlib libZeroMatrixLib.a

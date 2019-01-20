@@ -1,0 +1,3 @@
+/home/root1/DevOps/cmakeJenkinsLib/build/CMakeFiles/edit_cache.dir
+/home/root1/DevOps/cmakeJenkinsLib/build/CMakeFiles/rebuild_cache.dir
+/home/root1/DevOps/cmakeJenkinsLib/build/CMakeFiles/ZeroMatrixLib.dir
