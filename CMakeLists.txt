@@ -10,7 +10,7 @@ include_directories(include)
 file(GLOB SOURCES "src/*.cpp")
 
 #Generate the shared library from the sources
-add_library(ZeroMatrix STATIC ${SOURCES})
+add_library(MyClassTest STATIC ${SOURCES})
 
 #Set the location for library installation -- i.e., /usr/lib in this case
 # not really necessary in this example. Use "sudo make install" to apply
